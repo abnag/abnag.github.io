@@ -8,3 +8,16 @@ body {
   width: 960px;
   margin: 20px auto 20px auto;
 }
+/*selector denotes which element will be affected by the content in curly braces */ 
+h1 {
+	color: red; /* color = property, red = value */
+	font-family: times;
+	font-weight: bold;
+}
+h4 {
+	color: green;
+}
+img {border-color: red;
+}
+img {border-width: 5px;}
+#me{border-color: red;}
